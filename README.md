@@ -34,5 +34,11 @@ Este es un blog
 ![Alternative text](/path/to/img.jpg "Optional title")
 
 
+# Referencias
+
+![Alternative text][id]
+[id]: url/to/image "Optional title"
+
+
 
 
