@@ -37,7 +37,7 @@ Este es un blog
 # Referencias
 
 ![Alternative text][id]
-[id]: url/to/image "Optional title"
+[id]: IMG_0021.png "Optional title"
 
 
 
