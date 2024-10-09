@@ -31,7 +31,7 @@ Este es un blog
 
 # En línea con el texto
 
-![Alternative text](/path/to/IMG_002jpg "Optional title")
+![Alternative text](IMG_0021.png"Optional title")
 
 
 # Referencias
