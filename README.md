@@ -47,3 +47,14 @@ Este es un blog
 
 
 
+
+```javascript
+var a = {};
+```
+
+
+
+
+
+
+
