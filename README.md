@@ -5,6 +5,11 @@ Este es un ejercicio para aprender Markdown
 
 
 victor M
-kakakka
 =======
 El padrino, 
+
+
+Conozco los siguientes lenguajes de programación:
+* R
+* Python
+  
