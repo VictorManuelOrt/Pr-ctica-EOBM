@@ -42,3 +42,8 @@ Este es un blog
 
 
 
+` Este es un bloque de código`
+
+
+
+
