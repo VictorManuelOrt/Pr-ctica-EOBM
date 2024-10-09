@@ -29,3 +29,10 @@ Este es un blog
 
 [I'm a relative reference to a repository file](../blob/master/LICENSE)
 
+# En línea con el texto
+
+![Alternative text](/path/to/img.jpg "Optional title")
+
+
+
+
